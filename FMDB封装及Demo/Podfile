@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+
+target '001-FMDB演练' do
+pod 'FMDB'
+pod 'YYModel'
+end
